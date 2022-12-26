@@ -1,4 +1,4 @@
-# Hi there, this is Michael! 👋👋👋
+<h1 align=center> Hi there, this is Michael! 👋👋👋 </h1>
 
 <hr>
 
@@ -17,7 +17,7 @@
 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=mikael-kumsa&show_icons=true&theme=radical" />
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikael-kumsa&layout=compact&bg_color=212F3C&text_color=F8C471" />
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikael-kumsa&layout=compact&bg_color=212F3C&text_color=F8C471" />
 
 <br>
 <br>
