@@ -1,6 +1,6 @@
 <h1 align=center> Hi there, this is Michael! 👋👋👋 </h1>
 
-<h1 align=center><img align="center" width="25%" src="https://github.com/mikael-kumsa/mikael-kumsa/blob/master/45Ra.gif" /></h1>
+<h1 align=center><img align="center" width="25%" src="https://github.com/mikael-kumsa/mikael-kumsa/blob/master/yH.gif" /></h1>
 
 <hr>
 
