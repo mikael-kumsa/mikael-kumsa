@@ -1,8 +1,10 @@
 <h1 align=center> Hi there, this is Michael! 👋👋👋 </h1>
 
+<h1 align=center><img align="center" width="25%" src="https://github.com/mikael-kumsa/mikael-kumsa/blob/master/45Ra.gif" /></h1>
+
 <hr>
 
-### Hey there, I am Michael, I am highly motivated, attentive and Hardworking software developer.
+#### I am a very attentive and hard working Software Developer, Animator and entrepreneur. I am detail oriented and open minded. I love team work and aiding my peers, I am very eager to learn new things and develop my skills.I love playing video games and I try to make some too! I have a good communication skills and I am very ethical and confident.
 
 <hr>
 
@@ -15,10 +17,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=mikael-kumsa&show_icons=true&theme=radical" />
-
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikael-kumsa&layout=compact&bg_color=212F3C&text_color=F8C471" />
-
+<img width="49%" align="left" src="https://github-readme-stats.vercel.app/api?username=mikael-kumsa&show_icons=true&theme=radical" />
+<img width="49%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikael-kumsa&layout=compact&bg_color=212F3C&text_color=F8C471" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mikael-kumsa&theme=tokyonight" alt="mystreak"/>
 <br>
 <br>
 <br>
@@ -45,9 +46,14 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
+
+
+<p align="center">
+
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+</p>
 <hr>
 <hr>
