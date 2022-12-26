@@ -17,9 +17,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<img width="49%" align="left" src="https://github-readme-stats.vercel.app/api?username=mikael-kumsa&show_icons=true&theme=radical" />
-<img width="49%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikael-kumsa&layout=compact&bg_color=212F3C&text_color=F8C471" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mikael-kumsa&theme=tokyonight" alt="mystreak"/>
+<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=mikael-kumsa&show_icons=true&theme=radical" />
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=mikael-kumsa&theme=tokyonight" alt="mystreak"/>
+<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikael-kumsa&layout=compact&bg_color=212F3C&text_color=F8C471" />
 <br>
 <br>
 <br>
